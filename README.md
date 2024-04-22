@@ -1,4 +1,8 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+# Name: Ashwin Akash M
+# Reference Number: 2122223230024
+# Department: AI&DS
+# Date: 22-04-2024
+# Experiment-08: Pick and place of objects using industrial manipulator.
 
 ### Aim :
 To pick and place a regular shape using two finger gripper on the conveyor belt 
