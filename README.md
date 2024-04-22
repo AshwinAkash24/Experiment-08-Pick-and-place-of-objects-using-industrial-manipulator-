@@ -1,9 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -101,12 +101,19 @@ and click on the connect icon
 ### output video and screen shots of pick and place 
 
 
+![WhatsApp Image 2024-04-22 at 11 04 37_79ffc7ce](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/48fb0bed-2189-4d85-b845-544324bb597f)
+![WhatsApp Image 2024-04-22 at 11 04 38_0870f275](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/89c0d937-cc43-4ef3-a878-4bc589dbfb30)
+![WhatsApp Image 2024-04-22 at 10 52 43_04ac3f5a](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/57b98911-d1ca-4c24-9e12-310227c712da)
+![WhatsApp Image 2024-04-22 at 10 52 43_4e509094](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/52555d99-2aa6-46c2-b082-e34927906d0c)
+![WhatsApp Image 2024-04-22 at 10 52 44_d8ccc829](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/bd1e6c90-43e3-42d4-a496-66275815c2dc)
+![WhatsApp Image 2024-04-22 at 10 52 44_e000d0ac](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/35ab16db-2870-45ea-b45e-ac9395033d64)
 
 
 
 
 
-### Results: 
+### Results:
+Hence,the Pick and place of objects using industrial manipulator executed succesfully.
 
 
 
