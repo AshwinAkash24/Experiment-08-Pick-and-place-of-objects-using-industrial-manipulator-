@@ -1,8 +1,8 @@
 # Experiment-08: Pick and place of objects using industrial manipulator.
+# Date: 22-04-2024
 # Name: Ashwin Akash M
 # Reference Number: 212223230024
 # Department: AI&DS
-# Date: 22-04-2024
 ### Aim :
 To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
